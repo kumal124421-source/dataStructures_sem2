@@ -1,0 +1,29 @@
+===== DEMO MODE =====
+
+===== USER PROFILE =====
+User ID : u1
+Name    : Aman
+Age     : 20
+Interests : music, coding, sports
+========================
+
+===== USER PROFILE =====
+User ID : u2
+Name    : Riya
+Age     : 21
+Interests : movies, music, travel
+========================
+
+Profile updated successfully!
+
+BFS Query 1:
+['u1', 'u3', 'u6']
+
+BFS Query 2:
+['u2', 'u5']
+
+DFS Query:
+{'u1', 'u2', 'u3', 'u4', 'u5', 'u6'}
+
+Friend Suggestions for u1:
+[('u5', 1), ('u4', 1), ('u6', 1)]
